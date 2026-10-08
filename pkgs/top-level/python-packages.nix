@@ -14826,6 +14826,8 @@ self: super: with self; {
 
   pydes = callPackage ../development/python-modules/pydes { };
 
+  pydevccu = callPackage ../development/python-modules/pydevccu { };
+
   pydevd = callPackage ../development/python-modules/pydevd { };
 
   pydevtool = callPackage ../development/python-modules/pydevtool { };
