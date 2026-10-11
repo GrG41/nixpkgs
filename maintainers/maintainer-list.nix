@@ -10899,6 +10899,12 @@
     githubId = 7385287;
     name = "Lana Black";
   };
+  grg41 = {
+    email = "gr@g41.moe";
+    github = "GrG41";
+    githubId = 152935465;
+    name = "戦術人形Ｇ４１";
+  };
   grgi = {
     name = "Gregor Giesen";
     email = "gregor@giesen.net";
